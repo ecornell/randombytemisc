@@ -1,0 +1,16 @@
+.\bin\Interop.DXG.dll
+.\bin\Interop.DxVBLibA.dll
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Interop.DXG.dll
+obj\Debug\Interop.DxVBLibA.dll
+obj\Debug\ResolveComReference.cache
+obj\Debug\TankWars.vbproj.GenerateResource.Cache
+.\bin\TankWars.exe
+.\bin\TankWars.pdb
+.\bin\TankWars.xml
+obj\Debug\TankWars.dxform.resources
+obj\Debug\TankWars.msg.resources
+obj\Debug\TankWars.viewlog.resources
+obj\Debug\TankWars.exe
+obj\Debug\TankWars.xml
+obj\Debug\TankWars.pdb

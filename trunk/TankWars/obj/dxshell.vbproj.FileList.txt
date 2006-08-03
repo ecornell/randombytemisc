@@ -1,0 +1,16 @@
+.\bin\DXGame.exe
+.\bin\DXGame.pdb
+.\bin\DXGame.xml
+.\bin\Interop.DXG.dll
+.\bin\Interop.DxVBLibA.dll
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Interop.DXG.dll
+obj\Debug\Interop.DxVBLibA.dll
+obj\Debug\ResolveComReference.cache
+obj\Debug\DXGame.dxform.resources
+obj\Debug\DXGame.msg.resources
+obj\Debug\DXGame.viewlog.resources
+obj\Debug\dxshell.vbproj.GenerateResource.Cache
+obj\Debug\DXGame.exe
+obj\Debug\DXGame.xml
+obj\Debug\DXGame.pdb

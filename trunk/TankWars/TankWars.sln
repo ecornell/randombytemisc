@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "TankWars", "TankWars.vbproj", "{892A2755-D98F-4689-9D2B-92BDA1A6DB7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{892A2755-D98F-4689-9D2B-92BDA1A6DB7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{892A2755-D98F-4689-9D2B-92BDA1A6DB7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{892A2755-D98F-4689-9D2B-92BDA1A6DB7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{892A2755-D98F-4689-9D2B-92BDA1A6DB7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
