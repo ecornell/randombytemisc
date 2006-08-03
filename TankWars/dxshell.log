@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UpgradeLog>
+    <Settings>
+        <Setting
+            Name = "LogFile"
+            Value = "dxshell.log"
+        />
+        <Setting
+            Name = "GenerateInterfacesForClasses"
+            Value = "FALSE"
+        />
+        <Setting
+            Name = "ProjectName"
+            Value = "dxshell"
+        />
+        <Setting
+            Name = "OutputName"
+            Value = "dxshell.vbproj"
+        />
+        <Setting
+            Name = "OutputDir"
+            Value = "C:\Dev\DXGame\tutorial10\DXGame.NET1"
+        />
+        <Setting
+            Name = "ProjectPath"
+            Value = "C:\Dev\DXGame\tutorial10\dxshell.vbp"
+        />
+        <Setting
+            Name = "MigrateProjectTo"
+            Value = "WinExe"
+        />
+    </Settings>
+    <File
+        OldPath = "C:\Dev\DXGame\tutorial10\dxform.frm"
+        NewPath = "C:\Dev\DXGame\tutorial10\DXGame.NET1\dxform.vb"
+        FileType = "Form"
+        Upgraded = "True"
+    >
+        <Section Name = "(Layout)" >
+            <Issue
+                Type = "Design"
+                Number = "8027179A-CB3B-45C0-9863-FAA1AF983B59"
+                ObjectName = "dxform"
+                ObjectType = "Form"
+                PME = "ScaleMode"
+            >Form property dxform.ScaleMode is not supported.</Issue>
+        </Section>
+    </File>
+    <File
+        OldPath = "C:\Dev\DXGame\tutorial10\dxshell.bas"
+        NewPath = "C:\Dev\DXGame\tutorial10\DXGame.NET1\dxshell.vb"
+        FileType = "Module"
+        Upgraded = "True"
+    >
+        <Section Name = "(Declarations)" >
+            <Issue
+                Type = "Runtime"
+                Number = "E08DDC71-66BA-424F-A612-80AF11498FF8"
+            >Application will terminate when Sub Main() finishes.</Issue>
+        </Section>
+    </File>
+    <File
+        OldPath = "C:\Dev\DXGame\tutorial10\mygame.bas"
+        NewPath = "C:\Dev\DXGame\tutorial10\DXGame.NET1\mygame.vb"
+        FileType = "Module"
+        Upgraded = "True"
+    />
+    <File
+        OldPath = "C:\Dev\DXGame\tutorial10\configme.bas"
+        NewPath = "C:\Dev\DXGame\tutorial10\DXGame.NET1\configme.vb"
+        FileType = "Module"
+        Upgraded = "True"
+    />
+    <File
+        OldPath = "C:\Dev\DXGame\tutorial10\msg.frm"
+        NewPath = "C:\Dev\DXGame\tutorial10\DXGame.NET1\msg.vb"
+        FileType = "Form"
+        Upgraded = "True"
+    />
+    <File
+        OldPath = "C:\Dev\DXGame\tutorial10\viewlog.frm"
+        NewPath = "C:\Dev\DXGame\tutorial10\DXGame.NET1\viewlog.vb"
+        FileType = "Form"
+        Upgraded = "True"
+    >
+        <Section Name = "LoadFileToTB" >
+            <Issue
+                Type = "Runtime"
+                Number = "9B7D5ADD-D8FE-4819-A36C-6DEDAF088CC7"
+                PME = "Dir"
+            >Dir has a new behavior.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object TxtBox.Text.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object TxtBox.Text.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object TxtBox.Text.</Issue>
+        </Section>
+    </File>
+</UpgradeLog>
+
